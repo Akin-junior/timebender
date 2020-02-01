@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748091025141",
+    "firebase_url": "https://timebender-4c67a.firebaseio.com",
+    "project_id": "timebender-4c67a",
+    "storage_bucket": "timebender-4c67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748091025141:android:499a6f64f9a6b14a7e47bc",
+        "android_client_info": {
+          "package_name": "com.akin.timebender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748091025141-hnkojoo1qgphlevthsu2ellpi5c1kfnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akin.timebender",
+            "certificate_hash": "1900fad4f971f536ca9eaf53595d5ad5adde48cf"
+          }
+        },
+        {
+          "client_id": "748091025141-mmin3tt8o7qut3f9f29nm3anh89hpb0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgma9e9rLr2o1uFT9Ry3GQzi9CxFk3ZiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748091025141-mmin3tt8o7qut3f9f29nm3anh89hpb0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
